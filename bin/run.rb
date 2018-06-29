@@ -4,5 +4,3 @@ Octokit
 Pry
 AwesomePrint
 
-
-require 'gemfile'
