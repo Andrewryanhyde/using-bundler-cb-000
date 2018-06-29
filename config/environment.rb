@@ -1,3 +1,3 @@
 require 'bundler/setup'
 require 'gemfile/:default'
-require ':default, :development'
+Bundler.require(:default, :development)
