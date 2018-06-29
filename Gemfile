@@ -6,5 +6,5 @@ group :development do
   gem "pry"
   gem "hashie"
   gem "octokit", "2.0"
-  
+
 end
