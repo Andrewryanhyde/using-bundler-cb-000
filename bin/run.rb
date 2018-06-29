@@ -5,4 +5,4 @@ Pry
 AwesomePrint
 
 
-require './gemfile'
+require 'gemfile'
