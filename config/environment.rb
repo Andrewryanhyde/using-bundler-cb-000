@@ -1,3 +1,3 @@
 require 'bundler/setup'
-require 'gemfile::default'
-require 'gemfile::development'
+require 'gemfile:default'
+require 'gemfile:development'
